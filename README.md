@@ -20,8 +20,7 @@
 
 ## 🚀 About Me  
 - 🎓 **16-year-old passionate coder** exploring the world of tech.  
-- 🏆 Earned **certifications** in **Python, HTML, JavaScript**.  
-- 🛠 Built multiple **projects** and participated in **coding competitions**.  
+- 🏆 Earned **certifications** in **Python, HTML, JavaScript**.   
 - 📚 Currently learning **SQL, Machine Learning & Data Science**.  
 - 💼 **Aspiring to open my own tech company**, combining my passion for coding and business innovation.
 
